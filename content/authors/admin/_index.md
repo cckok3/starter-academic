@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: "+610458844574"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chuncheekok
@@ -21,7 +21,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Monash University
-      year: 2021
+      year: 2024
     - course: BBusCom (Honours) in Applied Economics
       institution: Monash University Malaysia
       year: 2019
@@ -34,6 +34,4 @@ highlight_name: false
 ---
 I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
 
-I'm passionate about using historical data to understand the economics and politics of Southeast Asia. My current research explores the impact of a large-scale colonial resettlement programme in a Southeast Asian country. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm passionate about using historical data to understand the economics and politics of Southeast Asia. My current research explores the impact of a large-scale colonial resettlement programme in a Southeast Asian country.
