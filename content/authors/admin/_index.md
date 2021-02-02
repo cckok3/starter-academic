@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "+610458844574"
+    link: "chun.kok@monash.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chuncheekok
