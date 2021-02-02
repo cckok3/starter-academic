@@ -1,7 +1,7 @@
 ---
 title: Chun C. Kok
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: 8c86d543-733b-4cc6-9597-8920e0489f46_1_201_a.jpeg
 bio: ""
 interests: []
 social:
