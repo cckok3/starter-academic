@@ -7,6 +7,7 @@ interests:
   - Economic History
   - Political Economy
   - Applied Microeconomics
+  - Southeast Asia
 social:
   - icon: envelope
     icon_pack: fas
