@@ -3,10 +3,10 @@ title: Chun C. Kok
 role: PhD Student
 avatar_filename: 8c86d543-733b-4cc6-9597-8920e0489f46_1_201_a.jpeg
 bio: ""
-interests: 
-- Economic History
-- Political Economy
-- Applied Microeconomics
+interests:
+  - Economic History
+  - Political Economy
+  - Applied Microeconomics
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,12 +14,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chuncheekok
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/chun-chee-kok-4a4727123/
 organizations:
   - name: Monash University
     url: https://www.monash.edu/
+  - name: SoDa Labs
+    url: https://www.monash.edu/business/soda-labs/home
 education:
   courses:
     - course: PhD in Economics
