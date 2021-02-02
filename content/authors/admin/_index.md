@@ -7,6 +7,8 @@ interests:
   - Economic History
   - Political Economy
   - Applied Microeconomics
+supervisor:
+  - Sascha O. Becker
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,8 +35,7 @@ education:
 email: chun.kok@monash.edu
 superuser: true
 highlight_name: false
-supervisor:
-  - Sascha O. Becker
+
 ---
 I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
 
