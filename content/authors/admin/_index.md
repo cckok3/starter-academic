@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Monash University
-      year: 2021-Present
+      year: 2024 (Anticipated)
     - course: BBusCom (Honours) in Applied Economics
       institution: Monash University Malaysia
       year: 2019
