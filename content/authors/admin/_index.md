@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Monash University
-      year: 2024
+      year: 2024 (Anticipated)
     - course: BBusCom (Honours) in Applied Economics
       institution: Monash University Malaysia
       year: 2019
@@ -32,8 +32,6 @@ education:
       year: 2018
 email: chun.kok@monash.edu
 superuser: true
-supervisor:
-  - Sascha O. Becker
 highlight_name: false
 ---
 I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
