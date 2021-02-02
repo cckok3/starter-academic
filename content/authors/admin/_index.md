@@ -1,14 +1,12 @@
 ---
 title: Chun C. Kok
 role: PhD Student
-avatar_filename: 8c86d543-733b-4cc6-9597-8920e0489f46_1_201_a.jpeg
+avatar_filename: img_0219.jpeg
 bio: ""
 interests:
   - Economic History
   - Political Economy
   - Applied Microeconomics
-supervisor:
-  - Sascha O. Becker
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,8 +32,9 @@ education:
       year: 2018
 email: chun.kok@monash.edu
 superuser: true
+supervisor:
+  - Sascha O. Becker
 highlight_name: false
-
 ---
 I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
 
