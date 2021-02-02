@@ -1,8 +1,8 @@
 ---
 title: Chun C. Kok
 role: PhD Student
-bio: I am currently a PhD Student at Monash University. My research interests
-  include Economic History, Political Economy, and Applied Microeconomics.
+avatar_filename: 8c86d543-733b-4cc6-9597-8920e0489f46_1_201_a.jpeg
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -32,8 +32,8 @@ email: chun.kok@monash.edu
 superuser: true
 highlight_name: false
 ---
+I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm passionate about using historical data to understand the economics and politics of Southeast Asia. My current research explores the impact of a large-scale colonial resettlement programme in a Southeast Asian country. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
