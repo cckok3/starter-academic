@@ -30,11 +30,11 @@ education:
     - course: BBusCom in Accounting & Economics
       institution: Monash University Malaysia
       year: 2018
-supervisor:
-- Sascha O. Becker
 email: chun.kok@monash.edu
 superuser: true
 highlight_name: false
+supervisor:
+  - Sascha O. Becker
 ---
 I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
 
