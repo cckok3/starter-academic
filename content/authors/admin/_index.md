@@ -35,6 +35,6 @@ email: chun.kok@monash.edu
 superuser: true
 highlight_name: false
 ---
-I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics.
+I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics. Before this, I was a research assistant under the division of Strategy at INSEAD. 
 
-I'm passionate about using historical data to understand the economics and politics of Southeast Asia. My current research explores the impact of a large-scale colonial resettlement programme in a Southeast Asian country.
+I use historical data to understand the economics and politics of Southeast Asia. My current research explores the impact of a large-scale colonial resettlement programme in a Southeast Asian country.
