@@ -1,5 +1,5 @@
 ---
-title: Chun C. Kok
+title: Chun Chee Kok
 role: PhD Student
 avatar_filename: img_0219.jpeg
 bio: ""
