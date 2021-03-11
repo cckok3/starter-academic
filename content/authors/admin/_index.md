@@ -32,7 +32,7 @@ education:
       institution: Monash University Malaysia
       year: 2018
 email: chun.kok@monash.edu
-superuser: true
+superuser: false
 highlight_name: false
 ---
 I am currently a PhD Student at Monash University. My research interests include Economic History, Political Economy, and Applied Microeconomics. Before this, I was a research assistant under the division of Strategy at INSEAD. 
