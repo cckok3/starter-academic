@@ -1,6 +1,6 @@
 ---
 widget: posts
-widget_id: my-widget-123
+widget_id: recent-posts
 headless: true
 weight: 10
 active: true
