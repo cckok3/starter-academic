@@ -4,7 +4,7 @@ url_pdf: ""
 summary: A work-in-progress project.
 url_video: ""
 date: 2022-04-13T14:00:00.000Z
-external_link: a
+external_link: 
 url_slides: ""
 title: Ethnic Segregation and Identity Politics (with Gedeon Lim)
 tags: null
