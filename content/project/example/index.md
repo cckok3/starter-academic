@@ -1,7 +1,9 @@
 ---
-title: Ethnic Segregation and Identity Politics (with "[Gedeon Lim](https://sites.google.com/a/bu.edu/gedeonlim/home?authuser=0)" (HKU)
+title: Ethnic Segregation and Identity Politics
 summary: 
-tags:
+authors:
+- admin
+- [Gedeon Lim](https://sites.google.com/a/bu.edu/gedeonlim/home?authuser=0) (HKU)
 date: ""
 
 # Optional external URL for project (replaces project detail page).
