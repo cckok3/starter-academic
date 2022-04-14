@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: A work-in-progress project.
+summary: ""
 url_video: ""
 date: 2022-04-13T14:00:00.000Z
 external_link: ---
