@@ -1,24 +1,24 @@
 ---
 title: Ethnic Segregation and Identity Politics
-subtitle: []
+subtitle: 
 
 # Summary for listings and search engines
-summary: []
+summary: 
 
 # Link this post with a project
-projects: []
+projects: 
 
 # Date published
-date: []
+date: 
 
 # Date updated
-lastmod: []
+lastmod: 
 
 # Is this an unpublished draft?
 draft: true
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
