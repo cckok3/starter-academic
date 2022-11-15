@@ -4,7 +4,7 @@ publication_types:
   - "0"
 authors:
   - admin
-  - Gedeon Lim
+  - "[Gedeon Lim](https://sites.google.com/a/bu.edu/gedeonlim/home)"
 draft: false
 featured: false
 image:
